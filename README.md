@@ -92,10 +92,5 @@ This project is live and hosted using **GitHub Pages**.
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
 
 > *"A creative mind knows how to do the right thing at the right place and at the right time."* 🚀
