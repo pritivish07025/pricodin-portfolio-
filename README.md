@@ -58,16 +58,6 @@ pricodin-portfolio/
 
 ---
 
-## 📱 Responsive Breakpoints
-
-| Screen Size | Breakpoint |
-|---|---|
-| Small Mobile | `max-width: 480px` |
-| Mobile | `max-width: 768px` |
-| Tablet | `max-width: 1024px` |
-| Desktop | `1024px and above` |
-
----
 
 ## ⚙️ How to Run Locally
 
